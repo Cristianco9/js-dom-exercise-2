@@ -55,9 +55,9 @@ interfaz de usuario.
 ## 🚀 ¿Cómo probar el proyecto?
 
 1. Clona este repositorio:
-   ```bash
+```bash
       git clone https://github.com/iensc-software-sena/js-dom-exercise-2.git
-    ```
+```
 
 2. Accede al directorio:
 
