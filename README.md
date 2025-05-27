@@ -55,19 +55,19 @@ interfaz de usuario.
 ## 🚀 ¿Cómo probar el proyecto?
 
 1. Clona este repositorio:
-   ```bash
+```bash
    git clone https://github.com/iensc-software-sena/js-dom-exercise-2.git
-    ```
+```
 
 2. Accede al directorio:
 
 ```bash
-    cd js-dom-exercise-2
+   cd js-dom-exercise-2
 ```
 
 3. Abre el proyecto en Visual Studio Code:
 ```bash
-    code .
+   code .
 ```
 
 4. Ejecuta `index.html` en tu navegador favorito.
